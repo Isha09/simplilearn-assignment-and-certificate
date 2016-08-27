@@ -33,4 +33,4 @@ at: Time of the answer (in epoch time)
 
 4. **Problem 4** : What are the tags of questions which got answered within 1 hour.
 
-![Certificate]({{site.baseurl}}/Capture.PNG)
+
